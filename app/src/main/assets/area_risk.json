@@ -1,0 +1,1122 @@
+[
+  {
+    "areaId": "TN_CHENNAI_ANNA_NAGAR",
+    "incidentCountApprox": 169,
+    "riskScore": 69,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_CHENNAI_BAZAAR_STREET",
+    "incidentCountApprox": 140,
+    "riskScore": 57,
+    "riskLevel": "CAUTION",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_CHENNAI_BUS_STAND_ROAD",
+    "incidentCountApprox": 204,
+    "riskScore": 84,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_CHENNAI_CHURCH_STREET",
+    "incidentCountApprox": 123,
+    "riskScore": 50,
+    "riskLevel": "CAUTION",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_CHENNAI_COLLEGE_ROAD",
+    "incidentCountApprox": 190,
+    "riskScore": 78,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_CHENNAI_EAST_CAR_STREET",
+    "incidentCountApprox": 205,
+    "riskScore": 84,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_CHENNAI_GANDHI_NAGAR",
+    "incidentCountApprox": 204,
+    "riskScore": 84,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_CHENNAI_HIGH_STREET",
+    "incidentCountApprox": 170,
+    "riskScore": 70,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_CHENNAI_HOSPITAL_ROAD",
+    "incidentCountApprox": 213,
+    "riskScore": 87,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_CHENNAI_KK_NAGAR",
+    "incidentCountApprox": 212,
+    "riskScore": 87,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_CHENNAI_LAKE_VIEW_ROAD",
+    "incidentCountApprox": 165,
+    "riskScore": 68,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_CHENNAI_MG_ROAD",
+    "incidentCountApprox": 198,
+    "riskScore": 81,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_CHENNAI_MARKET_ROAD",
+    "incidentCountApprox": 226,
+    "riskScore": 93,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_CHENNAI_NORTH_CAR_STREET",
+    "incidentCountApprox": 192,
+    "riskScore": 79,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_CHENNAI_PARK_AVENUE",
+    "incidentCountApprox": 175,
+    "riskScore": 72,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_CHENNAI_RAJAJI_NAGAR",
+    "incidentCountApprox": 234,
+    "riskScore": 96,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_CHENNAI_SOUTH_CAR_STREET",
+    "incidentCountApprox": 244,
+    "riskScore": 100,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_CHENNAI_STATION_ROAD",
+    "incidentCountApprox": 177,
+    "riskScore": 73,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_CHENNAI_TEMPLE_STREET",
+    "incidentCountApprox": 230,
+    "riskScore": 94,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_CHENNAI_WEST_CAR_STREET",
+    "incidentCountApprox": 175,
+    "riskScore": 72,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_COIMBATORE_ANNA_NAGAR",
+    "incidentCountApprox": 185,
+    "riskScore": 76,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_COIMBATORE_BAZAAR_STREET",
+    "incidentCountApprox": 141,
+    "riskScore": 58,
+    "riskLevel": "CAUTION",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_COIMBATORE_BUS_STAND_ROAD",
+    "incidentCountApprox": 145,
+    "riskScore": 59,
+    "riskLevel": "CAUTION",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_COIMBATORE_CHURCH_STREET",
+    "incidentCountApprox": 203,
+    "riskScore": 83,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_COIMBATORE_COLLEGE_ROAD",
+    "incidentCountApprox": 160,
+    "riskScore": 66,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_COIMBATORE_EAST_CAR_STREET",
+    "incidentCountApprox": 155,
+    "riskScore": 64,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_COIMBATORE_GANDHI_NAGAR",
+    "incidentCountApprox": 220,
+    "riskScore": 90,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_COIMBATORE_HIGH_STREET",
+    "incidentCountApprox": 216,
+    "riskScore": 89,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_COIMBATORE_HOSPITAL_ROAD",
+    "incidentCountApprox": 212,
+    "riskScore": 87,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_COIMBATORE_KK_NAGAR",
+    "incidentCountApprox": 233,
+    "riskScore": 95,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_COIMBATORE_LAKE_VIEW_ROAD",
+    "incidentCountApprox": 229,
+    "riskScore": 94,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_COIMBATORE_MG_ROAD",
+    "incidentCountApprox": 239,
+    "riskScore": 98,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_COIMBATORE_MARKET_ROAD",
+    "incidentCountApprox": 162,
+    "riskScore": 66,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_COIMBATORE_NORTH_CAR_STREET",
+    "incidentCountApprox": 223,
+    "riskScore": 91,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_COIMBATORE_PARK_AVENUE",
+    "incidentCountApprox": 189,
+    "riskScore": 77,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_COIMBATORE_RAJAJI_NAGAR",
+    "incidentCountApprox": 208,
+    "riskScore": 85,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_COIMBATORE_SOUTH_CAR_STREET",
+    "incidentCountApprox": 199,
+    "riskScore": 82,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_COIMBATORE_STATION_ROAD",
+    "incidentCountApprox": 215,
+    "riskScore": 88,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_COIMBATORE_TEMPLE_STREET",
+    "incidentCountApprox": 154,
+    "riskScore": 63,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_COIMBATORE_WEST_CAR_STREET",
+    "incidentCountApprox": 149,
+    "riskScore": 61,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_ERODE_ANNA_NAGAR",
+    "incidentCountApprox": 208,
+    "riskScore": 85,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_ERODE_BAZAAR_STREET",
+    "incidentCountApprox": 195,
+    "riskScore": 80,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_ERODE_BUS_STAND_ROAD",
+    "incidentCountApprox": 180,
+    "riskScore": 74,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_ERODE_CHURCH_STREET",
+    "incidentCountApprox": 210,
+    "riskScore": 86,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_ERODE_COLLEGE_ROAD",
+    "incidentCountApprox": 175,
+    "riskScore": 72,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_ERODE_EAST_CAR_STREET",
+    "incidentCountApprox": 216,
+    "riskScore": 89,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_ERODE_GANDHI_NAGAR",
+    "incidentCountApprox": 203,
+    "riskScore": 83,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_ERODE_HIGH_STREET",
+    "incidentCountApprox": 195,
+    "riskScore": 80,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_ERODE_HOSPITAL_ROAD",
+    "incidentCountApprox": 208,
+    "riskScore": 85,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_ERODE_KK_NAGAR",
+    "incidentCountApprox": 212,
+    "riskScore": 87,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_ERODE_LAKE_VIEW_ROAD",
+    "incidentCountApprox": 181,
+    "riskScore": 74,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_ERODE_MG_ROAD",
+    "incidentCountApprox": 203,
+    "riskScore": 83,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_ERODE_MARKET_ROAD",
+    "incidentCountApprox": 185,
+    "riskScore": 76,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_ERODE_NORTH_CAR_STREET",
+    "incidentCountApprox": 196,
+    "riskScore": 80,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_ERODE_PARK_AVENUE",
+    "incidentCountApprox": 194,
+    "riskScore": 80,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_ERODE_RAJAJI_NAGAR",
+    "incidentCountApprox": 173,
+    "riskScore": 71,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_ERODE_SOUTH_CAR_STREET",
+    "incidentCountApprox": 169,
+    "riskScore": 69,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_ERODE_STATION_ROAD",
+    "incidentCountApprox": 233,
+    "riskScore": 95,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_ERODE_TEMPLE_STREET",
+    "incidentCountApprox": 198,
+    "riskScore": 81,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_ERODE_WEST_CAR_STREET",
+    "incidentCountApprox": 157,
+    "riskScore": 64,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_MADURAI_ANNA_NAGAR",
+    "incidentCountApprox": 210,
+    "riskScore": 86,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_MADURAI_BAZAAR_STREET",
+    "incidentCountApprox": 216,
+    "riskScore": 89,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_MADURAI_BUS_STAND_ROAD",
+    "incidentCountApprox": 164,
+    "riskScore": 67,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_MADURAI_CHURCH_STREET",
+    "incidentCountApprox": 156,
+    "riskScore": 64,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_MADURAI_COLLEGE_ROAD",
+    "incidentCountApprox": 181,
+    "riskScore": 74,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_MADURAI_EAST_CAR_STREET",
+    "incidentCountApprox": 144,
+    "riskScore": 59,
+    "riskLevel": "CAUTION",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_MADURAI_GANDHI_NAGAR",
+    "incidentCountApprox": 205,
+    "riskScore": 84,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_MADURAI_HIGH_STREET",
+    "incidentCountApprox": 172,
+    "riskScore": 70,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_MADURAI_HOSPITAL_ROAD",
+    "incidentCountApprox": 146,
+    "riskScore": 60,
+    "riskLevel": "CAUTION",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_MADURAI_KK_NAGAR",
+    "incidentCountApprox": 177,
+    "riskScore": 73,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_MADURAI_LAKE_VIEW_ROAD",
+    "incidentCountApprox": 237,
+    "riskScore": 97,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_MADURAI_MG_ROAD",
+    "incidentCountApprox": 183,
+    "riskScore": 75,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_MADURAI_MARKET_ROAD",
+    "incidentCountApprox": 208,
+    "riskScore": 85,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_MADURAI_NORTH_CAR_STREET",
+    "incidentCountApprox": 177,
+    "riskScore": 73,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_MADURAI_PARK_AVENUE",
+    "incidentCountApprox": 179,
+    "riskScore": 73,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_MADURAI_RAJAJI_NAGAR",
+    "incidentCountApprox": 166,
+    "riskScore": 68,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_MADURAI_SOUTH_CAR_STREET",
+    "incidentCountApprox": 179,
+    "riskScore": 73,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_MADURAI_STATION_ROAD",
+    "incidentCountApprox": 202,
+    "riskScore": 83,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_MADURAI_TEMPLE_STREET",
+    "incidentCountApprox": 211,
+    "riskScore": 86,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_MADURAI_WEST_CAR_STREET",
+    "incidentCountApprox": 187,
+    "riskScore": 77,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_SALEM_ANNA_NAGAR",
+    "incidentCountApprox": 204,
+    "riskScore": 84,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_SALEM_BAZAAR_STREET",
+    "incidentCountApprox": 161,
+    "riskScore": 66,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_SALEM_BUS_STAND_ROAD",
+    "incidentCountApprox": 162,
+    "riskScore": 66,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_SALEM_CHURCH_STREET",
+    "incidentCountApprox": 158,
+    "riskScore": 65,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_SALEM_COLLEGE_ROAD",
+    "incidentCountApprox": 191,
+    "riskScore": 78,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_SALEM_EAST_CAR_STREET",
+    "incidentCountApprox": 223,
+    "riskScore": 91,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_SALEM_GANDHI_NAGAR",
+    "incidentCountApprox": 173,
+    "riskScore": 71,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_SALEM_HIGH_STREET",
+    "incidentCountApprox": 204,
+    "riskScore": 84,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_SALEM_HOSPITAL_ROAD",
+    "incidentCountApprox": 221,
+    "riskScore": 91,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_SALEM_KK_NAGAR",
+    "incidentCountApprox": 163,
+    "riskScore": 67,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_SALEM_LAKE_VIEW_ROAD",
+    "incidentCountApprox": 184,
+    "riskScore": 75,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_SALEM_MG_ROAD",
+    "incidentCountApprox": 171,
+    "riskScore": 70,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_SALEM_MARKET_ROAD",
+    "incidentCountApprox": 156,
+    "riskScore": 64,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_SALEM_NORTH_CAR_STREET",
+    "incidentCountApprox": 153,
+    "riskScore": 63,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_SALEM_PARK_AVENUE",
+    "incidentCountApprox": 115,
+    "riskScore": 47,
+    "riskLevel": "CAUTION",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_SALEM_RAJAJI_NAGAR",
+    "incidentCountApprox": 172,
+    "riskScore": 70,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_SALEM_SOUTH_CAR_STREET",
+    "incidentCountApprox": 197,
+    "riskScore": 81,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_SALEM_STATION_ROAD",
+    "incidentCountApprox": 201,
+    "riskScore": 82,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_SALEM_TEMPLE_STREET",
+    "incidentCountApprox": 198,
+    "riskScore": 81,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_SALEM_WEST_CAR_STREET",
+    "incidentCountApprox": 180,
+    "riskScore": 74,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_ANNA_NAGAR",
+    "incidentCountApprox": 171,
+    "riskScore": 70,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_BAZAAR_STREET",
+    "incidentCountApprox": 178,
+    "riskScore": 73,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_BUS_STAND_ROAD",
+    "incidentCountApprox": 146,
+    "riskScore": 60,
+    "riskLevel": "CAUTION",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_CHURCH_STREET",
+    "incidentCountApprox": 223,
+    "riskScore": 91,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_COLLEGE_ROAD",
+    "incidentCountApprox": 158,
+    "riskScore": 65,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_EAST_CAR_STREET",
+    "incidentCountApprox": 220,
+    "riskScore": 90,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_GANDHI_NAGAR",
+    "incidentCountApprox": 193,
+    "riskScore": 79,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_HIGH_STREET",
+    "incidentCountApprox": 203,
+    "riskScore": 83,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_HOSPITAL_ROAD",
+    "incidentCountApprox": 202,
+    "riskScore": 83,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_KK_NAGAR",
+    "incidentCountApprox": 190,
+    "riskScore": 78,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_LAKE_VIEW_ROAD",
+    "incidentCountApprox": 204,
+    "riskScore": 84,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_MG_ROAD",
+    "incidentCountApprox": 176,
+    "riskScore": 72,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_MARKET_ROAD",
+    "incidentCountApprox": 196,
+    "riskScore": 80,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_NORTH_CAR_STREET",
+    "incidentCountApprox": 154,
+    "riskScore": 63,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_PARK_AVENUE",
+    "incidentCountApprox": 224,
+    "riskScore": 92,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_RAJAJI_NAGAR",
+    "incidentCountApprox": 243,
+    "riskScore": 100,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_SOUTH_CAR_STREET",
+    "incidentCountApprox": 148,
+    "riskScore": 61,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_STATION_ROAD",
+    "incidentCountApprox": 135,
+    "riskScore": 55,
+    "riskLevel": "CAUTION",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_TEMPLE_STREET",
+    "incidentCountApprox": 210,
+    "riskScore": 86,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_WEST_CAR_STREET",
+    "incidentCountApprox": 170,
+    "riskScore": 70,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TRICHY_ANNA_NAGAR",
+    "incidentCountApprox": 174,
+    "riskScore": 71,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TRICHY_BAZAAR_STREET",
+    "incidentCountApprox": 207,
+    "riskScore": 85,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TRICHY_BUS_STAND_ROAD",
+    "incidentCountApprox": 191,
+    "riskScore": 78,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TRICHY_CHURCH_STREET",
+    "incidentCountApprox": 167,
+    "riskScore": 68,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TRICHY_COLLEGE_ROAD",
+    "incidentCountApprox": 188,
+    "riskScore": 77,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TRICHY_EAST_CAR_STREET",
+    "incidentCountApprox": 176,
+    "riskScore": 72,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TRICHY_GANDHI_NAGAR",
+    "incidentCountApprox": 207,
+    "riskScore": 85,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TRICHY_HIGH_STREET",
+    "incidentCountApprox": 208,
+    "riskScore": 85,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TRICHY_HOSPITAL_ROAD",
+    "incidentCountApprox": 159,
+    "riskScore": 65,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TRICHY_KK_NAGAR",
+    "incidentCountApprox": 188,
+    "riskScore": 77,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TRICHY_LAKE_VIEW_ROAD",
+    "incidentCountApprox": 223,
+    "riskScore": 91,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TRICHY_MG_ROAD",
+    "incidentCountApprox": 176,
+    "riskScore": 72,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TRICHY_MARKET_ROAD",
+    "incidentCountApprox": 192,
+    "riskScore": 79,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TRICHY_NORTH_CAR_STREET",
+    "incidentCountApprox": 188,
+    "riskScore": 77,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TRICHY_PARK_AVENUE",
+    "incidentCountApprox": 209,
+    "riskScore": 86,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TRICHY_RAJAJI_NAGAR",
+    "incidentCountApprox": 166,
+    "riskScore": 68,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TRICHY_SOUTH_CAR_STREET",
+    "incidentCountApprox": 202,
+    "riskScore": 83,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TRICHY_STATION_ROAD",
+    "incidentCountApprox": 182,
+    "riskScore": 75,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TRICHY_TEMPLE_STREET",
+    "incidentCountApprox": 135,
+    "riskScore": 55,
+    "riskLevel": "CAUTION",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_TRICHY_WEST_CAR_STREET",
+    "incidentCountApprox": 177,
+    "riskScore": 73,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_VELLORE_ANNA_NAGAR",
+    "incidentCountApprox": 201,
+    "riskScore": 82,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_VELLORE_BAZAAR_STREET",
+    "incidentCountApprox": 143,
+    "riskScore": 59,
+    "riskLevel": "CAUTION",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_VELLORE_BUS_STAND_ROAD",
+    "incidentCountApprox": 182,
+    "riskScore": 75,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_VELLORE_CHURCH_STREET",
+    "incidentCountApprox": 178,
+    "riskScore": 73,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_VELLORE_COLLEGE_ROAD",
+    "incidentCountApprox": 175,
+    "riskScore": 72,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_VELLORE_EAST_CAR_STREET",
+    "incidentCountApprox": 227,
+    "riskScore": 93,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_VELLORE_GANDHI_NAGAR",
+    "incidentCountApprox": 177,
+    "riskScore": 73,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_VELLORE_HIGH_STREET",
+    "incidentCountApprox": 180,
+    "riskScore": 74,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_VELLORE_HOSPITAL_ROAD",
+    "incidentCountApprox": 179,
+    "riskScore": 73,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_VELLORE_KK_NAGAR",
+    "incidentCountApprox": 186,
+    "riskScore": 76,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_VELLORE_LAKE_VIEW_ROAD",
+    "incidentCountApprox": 201,
+    "riskScore": 82,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_VELLORE_MG_ROAD",
+    "incidentCountApprox": 222,
+    "riskScore": 91,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_VELLORE_MARKET_ROAD",
+    "incidentCountApprox": 214,
+    "riskScore": 88,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_VELLORE_NORTH_CAR_STREET",
+    "incidentCountApprox": 214,
+    "riskScore": 88,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_VELLORE_PARK_AVENUE",
+    "incidentCountApprox": 237,
+    "riskScore": 97,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_VELLORE_RAJAJI_NAGAR",
+    "incidentCountApprox": 169,
+    "riskScore": 69,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_VELLORE_SOUTH_CAR_STREET",
+    "incidentCountApprox": 190,
+    "riskScore": 78,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_VELLORE_STATION_ROAD",
+    "incidentCountApprox": 117,
+    "riskScore": 48,
+    "riskLevel": "CAUTION",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_VELLORE_TEMPLE_STREET",
+    "incidentCountApprox": 155,
+    "riskScore": 64,
+    "riskLevel": "DANGER",
+    "lastUpdatedYear": 2023
+  },
+  {
+    "areaId": "TN_VELLORE_WEST_CAR_STREET",
+    "incidentCountApprox": 142,
+    "riskScore": 58,
+    "riskLevel": "CAUTION",
+    "lastUpdatedYear": 2023
+  }
+]

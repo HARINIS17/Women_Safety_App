@@ -1,0 +1,802 @@
+[
+  {
+    "areaId": "TN_CHENNAI_ANNA_NAGAR",
+    "district": "Chennai",
+    "areaName": "Anna Nagar"
+  },
+  {
+    "areaId": "TN_CHENNAI_BAZAAR_STREET",
+    "district": "Chennai",
+    "areaName": "Bazaar Street"
+  },
+  {
+    "areaId": "TN_CHENNAI_BUS_STAND_ROAD",
+    "district": "Chennai",
+    "areaName": "Bus Stand Road"
+  },
+  {
+    "areaId": "TN_CHENNAI_CHURCH_STREET",
+    "district": "Chennai",
+    "areaName": "Church Street"
+  },
+  {
+    "areaId": "TN_CHENNAI_COLLEGE_ROAD",
+    "district": "Chennai",
+    "areaName": "College Road"
+  },
+  {
+    "areaId": "TN_CHENNAI_EAST_CAR_STREET",
+    "district": "Chennai",
+    "areaName": "East Car Street"
+  },
+  {
+    "areaId": "TN_CHENNAI_GANDHI_NAGAR",
+    "district": "Chennai",
+    "areaName": "Gandhi Nagar"
+  },
+  {
+    "areaId": "TN_CHENNAI_HIGH_STREET",
+    "district": "Chennai",
+    "areaName": "High Street"
+  },
+  {
+    "areaId": "TN_CHENNAI_HOSPITAL_ROAD",
+    "district": "Chennai",
+    "areaName": "Hospital Road"
+  },
+  {
+    "areaId": "TN_CHENNAI_KK_NAGAR",
+    "district": "Chennai",
+    "areaName": "KK Nagar"
+  },
+  {
+    "areaId": "TN_CHENNAI_LAKE_VIEW_ROAD",
+    "district": "Chennai",
+    "areaName": "Lake View Road"
+  },
+  {
+    "areaId": "TN_CHENNAI_MG_ROAD",
+    "district": "Chennai",
+    "areaName": "MG Road"
+  },
+  {
+    "areaId": "TN_CHENNAI_MARKET_ROAD",
+    "district": "Chennai",
+    "areaName": "Market Road"
+  },
+  {
+    "areaId": "TN_CHENNAI_NORTH_CAR_STREET",
+    "district": "Chennai",
+    "areaName": "North Car Street"
+  },
+  {
+    "areaId": "TN_CHENNAI_PARK_AVENUE",
+    "district": "Chennai",
+    "areaName": "Park Avenue"
+  },
+  {
+    "areaId": "TN_CHENNAI_RAJAJI_NAGAR",
+    "district": "Chennai",
+    "areaName": "Rajaji Nagar"
+  },
+  {
+    "areaId": "TN_CHENNAI_SOUTH_CAR_STREET",
+    "district": "Chennai",
+    "areaName": "South Car Street"
+  },
+  {
+    "areaId": "TN_CHENNAI_STATION_ROAD",
+    "district": "Chennai",
+    "areaName": "Station Road"
+  },
+  {
+    "areaId": "TN_CHENNAI_TEMPLE_STREET",
+    "district": "Chennai",
+    "areaName": "Temple Street"
+  },
+  {
+    "areaId": "TN_CHENNAI_WEST_CAR_STREET",
+    "district": "Chennai",
+    "areaName": "West Car Street"
+  },
+  {
+    "areaId": "TN_COIMBATORE_ANNA_NAGAR",
+    "district": "Coimbatore",
+    "areaName": "Anna Nagar"
+  },
+  {
+    "areaId": "TN_COIMBATORE_BAZAAR_STREET",
+    "district": "Coimbatore",
+    "areaName": "Bazaar Street"
+  },
+  {
+    "areaId": "TN_COIMBATORE_BUS_STAND_ROAD",
+    "district": "Coimbatore",
+    "areaName": "Bus Stand Road"
+  },
+  {
+    "areaId": "TN_COIMBATORE_CHURCH_STREET",
+    "district": "Coimbatore",
+    "areaName": "Church Street"
+  },
+  {
+    "areaId": "TN_COIMBATORE_COLLEGE_ROAD",
+    "district": "Coimbatore",
+    "areaName": "College Road"
+  },
+  {
+    "areaId": "TN_COIMBATORE_EAST_CAR_STREET",
+    "district": "Coimbatore",
+    "areaName": "East Car Street"
+  },
+  {
+    "areaId": "TN_COIMBATORE_GANDHI_NAGAR",
+    "district": "Coimbatore",
+    "areaName": "Gandhi Nagar"
+  },
+  {
+    "areaId": "TN_COIMBATORE_HIGH_STREET",
+    "district": "Coimbatore",
+    "areaName": "High Street"
+  },
+  {
+    "areaId": "TN_COIMBATORE_HOSPITAL_ROAD",
+    "district": "Coimbatore",
+    "areaName": "Hospital Road"
+  },
+  {
+    "areaId": "TN_COIMBATORE_KK_NAGAR",
+    "district": "Coimbatore",
+    "areaName": "KK Nagar"
+  },
+  {
+    "areaId": "TN_COIMBATORE_LAKE_VIEW_ROAD",
+    "district": "Coimbatore",
+    "areaName": "Lake View Road"
+  },
+  {
+    "areaId": "TN_COIMBATORE_MG_ROAD",
+    "district": "Coimbatore",
+    "areaName": "MG Road"
+  },
+  {
+    "areaId": "TN_COIMBATORE_MARKET_ROAD",
+    "district": "Coimbatore",
+    "areaName": "Market Road"
+  },
+  {
+    "areaId": "TN_COIMBATORE_NORTH_CAR_STREET",
+    "district": "Coimbatore",
+    "areaName": "North Car Street"
+  },
+  {
+    "areaId": "TN_COIMBATORE_PARK_AVENUE",
+    "district": "Coimbatore",
+    "areaName": "Park Avenue"
+  },
+  {
+    "areaId": "TN_COIMBATORE_RAJAJI_NAGAR",
+    "district": "Coimbatore",
+    "areaName": "Rajaji Nagar"
+  },
+  {
+    "areaId": "TN_COIMBATORE_SOUTH_CAR_STREET",
+    "district": "Coimbatore",
+    "areaName": "South Car Street"
+  },
+  {
+    "areaId": "TN_COIMBATORE_STATION_ROAD",
+    "district": "Coimbatore",
+    "areaName": "Station Road"
+  },
+  {
+    "areaId": "TN_COIMBATORE_TEMPLE_STREET",
+    "district": "Coimbatore",
+    "areaName": "Temple Street"
+  },
+  {
+    "areaId": "TN_COIMBATORE_WEST_CAR_STREET",
+    "district": "Coimbatore",
+    "areaName": "West Car Street"
+  },
+  {
+    "areaId": "TN_ERODE_ANNA_NAGAR",
+    "district": "Erode",
+    "areaName": "Anna Nagar"
+  },
+  {
+    "areaId": "TN_ERODE_BAZAAR_STREET",
+    "district": "Erode",
+    "areaName": "Bazaar Street"
+  },
+  {
+    "areaId": "TN_ERODE_BUS_STAND_ROAD",
+    "district": "Erode",
+    "areaName": "Bus Stand Road"
+  },
+  {
+    "areaId": "TN_ERODE_CHURCH_STREET",
+    "district": "Erode",
+    "areaName": "Church Street"
+  },
+  {
+    "areaId": "TN_ERODE_COLLEGE_ROAD",
+    "district": "Erode",
+    "areaName": "College Road"
+  },
+  {
+    "areaId": "TN_ERODE_EAST_CAR_STREET",
+    "district": "Erode",
+    "areaName": "East Car Street"
+  },
+  {
+    "areaId": "TN_ERODE_GANDHI_NAGAR",
+    "district": "Erode",
+    "areaName": "Gandhi Nagar"
+  },
+  {
+    "areaId": "TN_ERODE_HIGH_STREET",
+    "district": "Erode",
+    "areaName": "High Street"
+  },
+  {
+    "areaId": "TN_ERODE_HOSPITAL_ROAD",
+    "district": "Erode",
+    "areaName": "Hospital Road"
+  },
+  {
+    "areaId": "TN_ERODE_KK_NAGAR",
+    "district": "Erode",
+    "areaName": "KK Nagar"
+  },
+  {
+    "areaId": "TN_ERODE_LAKE_VIEW_ROAD",
+    "district": "Erode",
+    "areaName": "Lake View Road"
+  },
+  {
+    "areaId": "TN_ERODE_MG_ROAD",
+    "district": "Erode",
+    "areaName": "MG Road"
+  },
+  {
+    "areaId": "TN_ERODE_MARKET_ROAD",
+    "district": "Erode",
+    "areaName": "Market Road"
+  },
+  {
+    "areaId": "TN_ERODE_NORTH_CAR_STREET",
+    "district": "Erode",
+    "areaName": "North Car Street"
+  },
+  {
+    "areaId": "TN_ERODE_PARK_AVENUE",
+    "district": "Erode",
+    "areaName": "Park Avenue"
+  },
+  {
+    "areaId": "TN_ERODE_RAJAJI_NAGAR",
+    "district": "Erode",
+    "areaName": "Rajaji Nagar"
+  },
+  {
+    "areaId": "TN_ERODE_SOUTH_CAR_STREET",
+    "district": "Erode",
+    "areaName": "South Car Street"
+  },
+  {
+    "areaId": "TN_ERODE_STATION_ROAD",
+    "district": "Erode",
+    "areaName": "Station Road"
+  },
+  {
+    "areaId": "TN_ERODE_TEMPLE_STREET",
+    "district": "Erode",
+    "areaName": "Temple Street"
+  },
+  {
+    "areaId": "TN_ERODE_WEST_CAR_STREET",
+    "district": "Erode",
+    "areaName": "West Car Street"
+  },
+  {
+    "areaId": "TN_MADURAI_ANNA_NAGAR",
+    "district": "Madurai",
+    "areaName": "Anna Nagar"
+  },
+  {
+    "areaId": "TN_MADURAI_BAZAAR_STREET",
+    "district": "Madurai",
+    "areaName": "Bazaar Street"
+  },
+  {
+    "areaId": "TN_MADURAI_BUS_STAND_ROAD",
+    "district": "Madurai",
+    "areaName": "Bus Stand Road"
+  },
+  {
+    "areaId": "TN_MADURAI_CHURCH_STREET",
+    "district": "Madurai",
+    "areaName": "Church Street"
+  },
+  {
+    "areaId": "TN_MADURAI_COLLEGE_ROAD",
+    "district": "Madurai",
+    "areaName": "College Road"
+  },
+  {
+    "areaId": "TN_MADURAI_EAST_CAR_STREET",
+    "district": "Madurai",
+    "areaName": "East Car Street"
+  },
+  {
+    "areaId": "TN_MADURAI_GANDHI_NAGAR",
+    "district": "Madurai",
+    "areaName": "Gandhi Nagar"
+  },
+  {
+    "areaId": "TN_MADURAI_HIGH_STREET",
+    "district": "Madurai",
+    "areaName": "High Street"
+  },
+  {
+    "areaId": "TN_MADURAI_HOSPITAL_ROAD",
+    "district": "Madurai",
+    "areaName": "Hospital Road"
+  },
+  {
+    "areaId": "TN_MADURAI_KK_NAGAR",
+    "district": "Madurai",
+    "areaName": "KK Nagar"
+  },
+  {
+    "areaId": "TN_MADURAI_LAKE_VIEW_ROAD",
+    "district": "Madurai",
+    "areaName": "Lake View Road"
+  },
+  {
+    "areaId": "TN_MADURAI_MG_ROAD",
+    "district": "Madurai",
+    "areaName": "MG Road"
+  },
+  {
+    "areaId": "TN_MADURAI_MARKET_ROAD",
+    "district": "Madurai",
+    "areaName": "Market Road"
+  },
+  {
+    "areaId": "TN_MADURAI_NORTH_CAR_STREET",
+    "district": "Madurai",
+    "areaName": "North Car Street"
+  },
+  {
+    "areaId": "TN_MADURAI_PARK_AVENUE",
+    "district": "Madurai",
+    "areaName": "Park Avenue"
+  },
+  {
+    "areaId": "TN_MADURAI_RAJAJI_NAGAR",
+    "district": "Madurai",
+    "areaName": "Rajaji Nagar"
+  },
+  {
+    "areaId": "TN_MADURAI_SOUTH_CAR_STREET",
+    "district": "Madurai",
+    "areaName": "South Car Street"
+  },
+  {
+    "areaId": "TN_MADURAI_STATION_ROAD",
+    "district": "Madurai",
+    "areaName": "Station Road"
+  },
+  {
+    "areaId": "TN_MADURAI_TEMPLE_STREET",
+    "district": "Madurai",
+    "areaName": "Temple Street"
+  },
+  {
+    "areaId": "TN_MADURAI_WEST_CAR_STREET",
+    "district": "Madurai",
+    "areaName": "West Car Street"
+  },
+  {
+    "areaId": "TN_SALEM_ANNA_NAGAR",
+    "district": "Salem",
+    "areaName": "Anna Nagar"
+  },
+  {
+    "areaId": "TN_SALEM_BAZAAR_STREET",
+    "district": "Salem",
+    "areaName": "Bazaar Street"
+  },
+  {
+    "areaId": "TN_SALEM_BUS_STAND_ROAD",
+    "district": "Salem",
+    "areaName": "Bus Stand Road"
+  },
+  {
+    "areaId": "TN_SALEM_CHURCH_STREET",
+    "district": "Salem",
+    "areaName": "Church Street"
+  },
+  {
+    "areaId": "TN_SALEM_COLLEGE_ROAD",
+    "district": "Salem",
+    "areaName": "College Road"
+  },
+  {
+    "areaId": "TN_SALEM_EAST_CAR_STREET",
+    "district": "Salem",
+    "areaName": "East Car Street"
+  },
+  {
+    "areaId": "TN_SALEM_GANDHI_NAGAR",
+    "district": "Salem",
+    "areaName": "Gandhi Nagar"
+  },
+  {
+    "areaId": "TN_SALEM_HIGH_STREET",
+    "district": "Salem",
+    "areaName": "High Street"
+  },
+  {
+    "areaId": "TN_SALEM_HOSPITAL_ROAD",
+    "district": "Salem",
+    "areaName": "Hospital Road"
+  },
+  {
+    "areaId": "TN_SALEM_KK_NAGAR",
+    "district": "Salem",
+    "areaName": "KK Nagar"
+  },
+  {
+    "areaId": "TN_SALEM_LAKE_VIEW_ROAD",
+    "district": "Salem",
+    "areaName": "Lake View Road"
+  },
+  {
+    "areaId": "TN_SALEM_MG_ROAD",
+    "district": "Salem",
+    "areaName": "MG Road"
+  },
+  {
+    "areaId": "TN_SALEM_MARKET_ROAD",
+    "district": "Salem",
+    "areaName": "Market Road"
+  },
+  {
+    "areaId": "TN_SALEM_NORTH_CAR_STREET",
+    "district": "Salem",
+    "areaName": "North Car Street"
+  },
+  {
+    "areaId": "TN_SALEM_PARK_AVENUE",
+    "district": "Salem",
+    "areaName": "Park Avenue"
+  },
+  {
+    "areaId": "TN_SALEM_RAJAJI_NAGAR",
+    "district": "Salem",
+    "areaName": "Rajaji Nagar"
+  },
+  {
+    "areaId": "TN_SALEM_SOUTH_CAR_STREET",
+    "district": "Salem",
+    "areaName": "South Car Street"
+  },
+  {
+    "areaId": "TN_SALEM_STATION_ROAD",
+    "district": "Salem",
+    "areaName": "Station Road"
+  },
+  {
+    "areaId": "TN_SALEM_TEMPLE_STREET",
+    "district": "Salem",
+    "areaName": "Temple Street"
+  },
+  {
+    "areaId": "TN_SALEM_WEST_CAR_STREET",
+    "district": "Salem",
+    "areaName": "West Car Street"
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_ANNA_NAGAR",
+    "district": "Tirunelveli",
+    "areaName": "Anna Nagar"
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_BAZAAR_STREET",
+    "district": "Tirunelveli",
+    "areaName": "Bazaar Street"
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_BUS_STAND_ROAD",
+    "district": "Tirunelveli",
+    "areaName": "Bus Stand Road"
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_CHURCH_STREET",
+    "district": "Tirunelveli",
+    "areaName": "Church Street"
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_COLLEGE_ROAD",
+    "district": "Tirunelveli",
+    "areaName": "College Road"
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_EAST_CAR_STREET",
+    "district": "Tirunelveli",
+    "areaName": "East Car Street"
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_GANDHI_NAGAR",
+    "district": "Tirunelveli",
+    "areaName": "Gandhi Nagar"
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_HIGH_STREET",
+    "district": "Tirunelveli",
+    "areaName": "High Street"
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_HOSPITAL_ROAD",
+    "district": "Tirunelveli",
+    "areaName": "Hospital Road"
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_KK_NAGAR",
+    "district": "Tirunelveli",
+    "areaName": "KK Nagar"
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_LAKE_VIEW_ROAD",
+    "district": "Tirunelveli",
+    "areaName": "Lake View Road"
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_MG_ROAD",
+    "district": "Tirunelveli",
+    "areaName": "MG Road"
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_MARKET_ROAD",
+    "district": "Tirunelveli",
+    "areaName": "Market Road"
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_NORTH_CAR_STREET",
+    "district": "Tirunelveli",
+    "areaName": "North Car Street"
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_PARK_AVENUE",
+    "district": "Tirunelveli",
+    "areaName": "Park Avenue"
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_RAJAJI_NAGAR",
+    "district": "Tirunelveli",
+    "areaName": "Rajaji Nagar"
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_SOUTH_CAR_STREET",
+    "district": "Tirunelveli",
+    "areaName": "South Car Street"
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_STATION_ROAD",
+    "district": "Tirunelveli",
+    "areaName": "Station Road"
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_TEMPLE_STREET",
+    "district": "Tirunelveli",
+    "areaName": "Temple Street"
+  },
+  {
+    "areaId": "TN_TIRUNELVELI_WEST_CAR_STREET",
+    "district": "Tirunelveli",
+    "areaName": "West Car Street"
+  },
+  {
+    "areaId": "TN_TRICHY_ANNA_NAGAR",
+    "district": "Trichy",
+    "areaName": "Anna Nagar"
+  },
+  {
+    "areaId": "TN_TRICHY_BAZAAR_STREET",
+    "district": "Trichy",
+    "areaName": "Bazaar Street"
+  },
+  {
+    "areaId": "TN_TRICHY_BUS_STAND_ROAD",
+    "district": "Trichy",
+    "areaName": "Bus Stand Road"
+  },
+  {
+    "areaId": "TN_TRICHY_CHURCH_STREET",
+    "district": "Trichy",
+    "areaName": "Church Street"
+  },
+  {
+    "areaId": "TN_TRICHY_COLLEGE_ROAD",
+    "district": "Trichy",
+    "areaName": "College Road"
+  },
+  {
+    "areaId": "TN_TRICHY_EAST_CAR_STREET",
+    "district": "Trichy",
+    "areaName": "East Car Street"
+  },
+  {
+    "areaId": "TN_TRICHY_GANDHI_NAGAR",
+    "district": "Trichy",
+    "areaName": "Gandhi Nagar"
+  },
+  {
+    "areaId": "TN_TRICHY_HIGH_STREET",
+    "district": "Trichy",
+    "areaName": "High Street"
+  },
+  {
+    "areaId": "TN_TRICHY_HOSPITAL_ROAD",
+    "district": "Trichy",
+    "areaName": "Hospital Road"
+  },
+  {
+    "areaId": "TN_TRICHY_KK_NAGAR",
+    "district": "Trichy",
+    "areaName": "KK Nagar"
+  },
+  {
+    "areaId": "TN_TRICHY_LAKE_VIEW_ROAD",
+    "district": "Trichy",
+    "areaName": "Lake View Road"
+  },
+  {
+    "areaId": "TN_TRICHY_MG_ROAD",
+    "district": "Trichy",
+    "areaName": "MG Road"
+  },
+  {
+    "areaId": "TN_TRICHY_MARKET_ROAD",
+    "district": "Trichy",
+    "areaName": "Market Road"
+  },
+  {
+    "areaId": "TN_TRICHY_NORTH_CAR_STREET",
+    "district": "Trichy",
+    "areaName": "North Car Street"
+  },
+  {
+    "areaId": "TN_TRICHY_PARK_AVENUE",
+    "district": "Trichy",
+    "areaName": "Park Avenue"
+  },
+  {
+    "areaId": "TN_TRICHY_RAJAJI_NAGAR",
+    "district": "Trichy",
+    "areaName": "Rajaji Nagar"
+  },
+  {
+    "areaId": "TN_TRICHY_SOUTH_CAR_STREET",
+    "district": "Trichy",
+    "areaName": "South Car Street"
+  },
+  {
+    "areaId": "TN_TRICHY_STATION_ROAD",
+    "district": "Trichy",
+    "areaName": "Station Road"
+  },
+  {
+    "areaId": "TN_TRICHY_TEMPLE_STREET",
+    "district": "Trichy",
+    "areaName": "Temple Street"
+  },
+  {
+    "areaId": "TN_TRICHY_WEST_CAR_STREET",
+    "district": "Trichy",
+    "areaName": "West Car Street"
+  },
+  {
+    "areaId": "TN_VELLORE_ANNA_NAGAR",
+    "district": "Vellore",
+    "areaName": "Anna Nagar"
+  },
+  {
+    "areaId": "TN_VELLORE_BAZAAR_STREET",
+    "district": "Vellore",
+    "areaName": "Bazaar Street"
+  },
+  {
+    "areaId": "TN_VELLORE_BUS_STAND_ROAD",
+    "district": "Vellore",
+    "areaName": "Bus Stand Road"
+  },
+  {
+    "areaId": "TN_VELLORE_CHURCH_STREET",
+    "district": "Vellore",
+    "areaName": "Church Street"
+  },
+  {
+    "areaId": "TN_VELLORE_COLLEGE_ROAD",
+    "district": "Vellore",
+    "areaName": "College Road"
+  },
+  {
+    "areaId": "TN_VELLORE_EAST_CAR_STREET",
+    "district": "Vellore",
+    "areaName": "East Car Street"
+  },
+  {
+    "areaId": "TN_VELLORE_GANDHI_NAGAR",
+    "district": "Vellore",
+    "areaName": "Gandhi Nagar"
+  },
+  {
+    "areaId": "TN_VELLORE_HIGH_STREET",
+    "district": "Vellore",
+    "areaName": "High Street"
+  },
+  {
+    "areaId": "TN_VELLORE_HOSPITAL_ROAD",
+    "district": "Vellore",
+    "areaName": "Hospital Road"
+  },
+  {
+    "areaId": "TN_VELLORE_KK_NAGAR",
+    "district": "Vellore",
+    "areaName": "KK Nagar"
+  },
+  {
+    "areaId": "TN_VELLORE_LAKE_VIEW_ROAD",
+    "district": "Vellore",
+    "areaName": "Lake View Road"
+  },
+  {
+    "areaId": "TN_VELLORE_MG_ROAD",
+    "district": "Vellore",
+    "areaName": "MG Road"
+  },
+  {
+    "areaId": "TN_VELLORE_MARKET_ROAD",
+    "district": "Vellore",
+    "areaName": "Market Road"
+  },
+  {
+    "areaId": "TN_VELLORE_NORTH_CAR_STREET",
+    "district": "Vellore",
+    "areaName": "North Car Street"
+  },
+  {
+    "areaId": "TN_VELLORE_PARK_AVENUE",
+    "district": "Vellore",
+    "areaName": "Park Avenue"
+  },
+  {
+    "areaId": "TN_VELLORE_RAJAJI_NAGAR",
+    "district": "Vellore",
+    "areaName": "Rajaji Nagar"
+  },
+  {
+    "areaId": "TN_VELLORE_SOUTH_CAR_STREET",
+    "district": "Vellore",
+    "areaName": "South Car Street"
+  },
+  {
+    "areaId": "TN_VELLORE_STATION_ROAD",
+    "district": "Vellore",
+    "areaName": "Station Road"
+  },
+  {
+    "areaId": "TN_VELLORE_TEMPLE_STREET",
+    "district": "Vellore",
+    "areaName": "Temple Street"
+  },
+  {
+    "areaId": "TN_VELLORE_WEST_CAR_STREET",
+    "district": "Vellore",
+    "areaName": "West Car Street"
+  }
+]

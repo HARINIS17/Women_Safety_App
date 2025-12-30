@@ -1,0 +1,7 @@
+<resources>
+    <!--
+      Change the parent to a modern theme from the Material Components library.
+      Theme.Material3.DayNight.NoActionBar is a great default.
+    -->
+    <style name="Theme.SafeZone" parent="Theme.Material3.DayNight.NoActionBar" />
+</resources>
