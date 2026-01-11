@@ -4,25 +4,22 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:padding="16dp">
+    android:gravity="center"
+    android:padding="24dp">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Nearby Areas"
+        android:text="Settings"
         android:textSize="22sp"
         android:textStyle="bold"
-        android:paddingBottom="12dp"/>
-
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/areaRecyclerView"
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"/>
+        android:paddingBottom="24dp"/>
 
     <Button
-        android:id="@+id/btnSettings"
+        android:id="@+id/btnResetData"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Settings"/>
+        android:text="Reset App Data"
+        android:backgroundTint="#D32F2F"
+        android:textColor="#FFFFFF"/>
 </LinearLayout>

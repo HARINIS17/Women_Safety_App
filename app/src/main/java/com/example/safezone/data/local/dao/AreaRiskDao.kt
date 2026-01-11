@@ -7,14 +7,14 @@ import androidx.room.Query
 import com.example.safezone.data.local.entity.AreaRiskEntity
 
 @Dao
-interface AreaRiskDao {
+interface AreaRiskDao{
 
-    @Insert(onConflict = OnConflictStrategy.REPLACE)
-    suspend fun insertAll(list: List<AreaRiskEntity>)
+    @Query("SELECT * FROM area_risk")
+    suspend fun getAllRisks(): List<AreaRiskEntity>
 
     @Query("SELECT COUNT(*) FROM area_risk")
     suspend fun getCount(): Int
 
-    @Query("SELECT * FROM area_risk")
-    suspend fun getAllRisks(): List<AreaRiskEntity>
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertAll(list: List<AreaRiskEntity>)
 }

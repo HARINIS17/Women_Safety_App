@@ -5,6 +5,8 @@ import android.util.Log
 import com.example.safezone.data.local.AppDatabase
 import com.example.safezone.data.local.entity.AreaRiskEntity
 import org.json.JSONArray
+import androidx.room.Insert
+import androidx.room.OnConflictStrategy
 
 class AreaRiskRepository(private val context: Context) {
 

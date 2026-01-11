@@ -1,7 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <!--
-      Change the parent to a modern theme from the Material Components library.
-      Theme.Material3.DayNight.NoActionBar is a great default.
+        Main application theme.
+        Using MaterialComponents (NOT Material3)
+        Safe for XML + Fragment + Navigation projects
     -->
-    <style name="Theme.SafeZone" parent="Theme.Material3.DayNight.NoActionBar" />
+    <style name="Theme.SafeZone" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <!-- Primary brand color -->
+        <item name="colorPrimary">#1565C0</item>
+        <item name="colorPrimaryVariant">#003c8f</item>
+
+        <!-- Secondary / accent color -->
+        <item name="colorSecondary">#D32F2F</item>
+        <item name="colorSecondaryVariant">#9a0007</item>
+
+        <!-- Status bar & system UI -->
+        <item name="android:statusBarColor">#003c8f</item>
+        <item name="android:navigationBarColor">#000000</item>
+
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">#000000</item>
+        <item name="android:textColorSecondary">#616161</item>
+
+        <!-- Disable action bar (we use fragments) -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+    </style>
+
 </resources>
